@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:position xmlns:ns2="m2GIL:rest:tp">
+    <latitude>45</latitude>
+    <longitude>42.0</longitude>
+</ns2:position>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:city xmlns:ns2="m2GIL:rest:tp">
+    <country>UE</country>
+    <name>Portugal</name>
+    <position>
+        <latitude>45</latitude>
+        <longitude>42.0</longitude>
+    </position>
+</ns2:city>
+
+
